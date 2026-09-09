@@ -14,24 +14,23 @@ OpenUSD supports Linux, macOS, and Windows. The setup instructions in this branc
 
 ## Running usdview
 
-After building and installing OpenUSD, configure the required environment variables in your terminal:
+After building and installing OpenUSD, configure the required environment variables in your terminal.
+
+> **Note:** Replace the paths below with the paths where you installed OpenUSD on your system.
 
 ```bat
 set PATH=E:\USD\USD_Install\bin;E:\USD\USD_Install\lib;%PATH%
+
 set PYTHONPATH=E:\USD\USD_Install\Lib\site-packages;%PYTHONPATH%
 ```
 
 You can then open a USD file with:
 
 ```bat
-usdview "E:\USD\USD_Dev\src\attributes.usda"
+usdview "E:\USD\OpenUSD_BHM\pxr\yourFile.usda"
 ```
 
-For example, from the project directory:
+Replace the USD file path above with the location of your own `.usda` file.
 
-```bat
-cd /d "E:\USD\USD_Dev"
-usdview "src\attributes.usda"
-```
 
 ![USDView](resources/images/usdviewExample.png)
