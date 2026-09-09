@@ -27,7 +27,7 @@ set PYTHONPATH=E:\USD\USD_Install\Lib\site-packages;%PYTHONPATH%
 You can then open a USD file with:
 
 ```bat
-usdview "E:\USD\OpenUSD_BHM\pxr\yourFile.usda"
+usdview "E:\USD\OpenUSD_BHM\pxr\assets\HelloWorld.usda"
 ```
 
 Replace the USD file path above with the location of your own `.usda` file.
