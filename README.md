@@ -14,7 +14,7 @@ OpenUSD supports Linux, macOS, and Windows. The setup instructions in this branc
 
 ## Running usdview
 
-After building and installing OpenUSD, configure the required environment variables in your terminal.
+After building and installing [OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD), configure the required environment variables in your terminal.
 
 > **Note:** Replace the paths below with the paths where you installed OpenUSD on your system.
 
