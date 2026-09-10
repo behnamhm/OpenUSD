@@ -6,7 +6,7 @@ It serves as a central workspace for experimenting with USD, learning its core c
 
 ## Installing usdview and Setting Up Python
 
-Before working with the examples in this branch, you'll need to install **OpenUSD** and configure `usdview`.
+Before working with the examples in this branch, you'll need to install [OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) and configure `usdview`.
 
 `usdview` is the official USD scene viewer and provides a convenient way to inspect USD stages, prims, attributes, relationships, and scene composition.
 
@@ -20,7 +20,6 @@ After building and installing [OpenUSD](https://github.com/PixarAnimationStudios
 
 ```bat
 set PATH=E:\USD\USD_Install\bin;E:\USD\USD_Install\lib;%PATH%
-
 set PYTHONPATH=E:\USD\USD_Install\Lib\site-packages;%PYTHONPATH%
 ```
 
