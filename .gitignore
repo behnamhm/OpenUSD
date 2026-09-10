@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 *.usda
+*.usd
 # System files
 .DS_Store
 .vscode/
