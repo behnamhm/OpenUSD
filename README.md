@@ -1,4 +1,4 @@
-# USD DEV
+# Universal Scene Description
 
 This branch focuses on building a solid foundation for **OpenUSD development**, with an emphasis on clean, structured, and reusable Python workflows.
 
